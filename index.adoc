@@ -1,0 +1,27 @@
+:source-highlighter: highlightjs
+
+= 課題7 ほにゃらら
+
+//[grid=none, frame=none, cols="<8,>2"]
+[cols="<8,>2"]
+|====
+|link:./index.html[別のPythonの実装] < link:../index.html[はじめに] < link:../../index.html[言語リファレンス] < link:../../../../index.html[Python学習サイト] >|https://docs.python.jp/3/reference/introduction.html#alternate-implementations[参照元] link:../../../env/index.html[開発環境] link:../../../env/index.html[成果物]
+|====
+
+[source, python]
+----
+include::main.py[lines=3..-1]
+----
+
+[grid=none, frame=none]
+|====
+<|< link:../index.html[前の課題] >|link:../index.html[次の課題] > 
+|====
+
+[grid=none, frame=none]
+|====
+|< link:../index.html[前の課題]
+
+|> link:../index.html[次の課題]
+|====
+
